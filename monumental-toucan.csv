@@ -1,0 +1,34 @@
+timestamp,level,flow_run_id,task_run_id,message
+2024-10-10 19:44:02.080746+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Worker 'ProcessWorker e80ba842-4e6f-4405-92d9-ef4a82ab2090' submitting flow run '970f5baf-d18c-4939-b27f-c38dabc3215a'
+2024-10-10 19:44:02.216908+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Opening process...
+2024-10-10 19:44:02.266941+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Completed submission of flow run '970f5baf-d18c-4939-b27f-c38dabc3215a'
+2024-10-10 19:44:03.665249+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Starting main flow
+2024-10-10 19:44:03.723116+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,d35cb886-35c5-4639-89d9-52ac9c3e6011,Loaded 249 rows from CSV.csv
+2024-10-10 19:44:03.727051+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,d35cb886-35c5-4639-89d9-52ac9c3e6011,Finished in state Completed()
+2024-10-10 19:44:04.015868+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'lumpy-chachalaca' for flow 'symbol-proccessing'
+2024-10-10 19:44:04.962494+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'pastoral-groundhog' for flow 'symbol-proccessing'
+2024-10-10 19:44:36.109780+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'icy-armadillo' for flow 'symbol-proccessing'
+2024-10-10 19:45:07.223209+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'spiked-wildcat' for flow 'symbol-proccessing'
+2024-10-10 19:45:38.084756+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'cuddly-scorpion' for flow 'symbol-proccessing'
+2024-10-10 19:46:08.868409+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'slick-ammonite' for flow 'symbol-proccessing'
+2024-10-10 19:46:39.694687+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'capable-rhino' for flow 'symbol-proccessing'
+2024-10-10 19:47:10.533622+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'outrageous-sawfish' for flow 'symbol-proccessing'
+2024-10-10 19:47:41.391937+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'wisteria-dogfish' for flow 'symbol-proccessing'
+2024-10-10 19:48:12.312145+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'spry-cricket' for flow 'symbol-proccessing'
+2024-10-10 19:48:43.139190+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'crouching-mongoose' for flow 'symbol-proccessing'
+2024-10-10 19:49:14.026898+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'mighty-bulldog' for flow 'symbol-proccessing'
+2024-10-10 19:49:44.892079+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'spectral-dolphin' for flow 'symbol-proccessing'
+2024-10-10 19:50:15.677631+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'meteoric-scallop' for flow 'symbol-proccessing'
+2024-10-10 19:50:46.466491+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'brawny-saluki' for flow 'symbol-proccessing'
+2024-10-10 19:51:17.319052+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'hallowed-centipede' for flow 'symbol-proccessing'
+2024-10-10 19:51:48.379897+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'smooth-cockle' for flow 'symbol-proccessing'
+2024-10-10 19:52:19.533555+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'ninja-gopher' for flow 'symbol-proccessing'
+2024-10-10 19:52:50.513778+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'cordial-whippet' for flow 'symbol-proccessing'
+2024-10-10 19:53:21.336937+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Created subflow run 'diligent-sponge' for flow 'symbol-proccessing'
+2024-10-10 19:53:52.076219+00:00,30,970f5baf-d18c-4939-b27f-c38dabc3215a,,"A future was garbage collected before it resolved. Please call `.wait()` or `.result()` on futures to ensure they resolve.
+See https://docs.prefect.io/latest/develop/task-runners for more details."
+2024-10-10 19:53:52.080399+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Finished main flow
+2024-10-10 19:53:52.498967+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,ee0d1ce8-d3fa-4284-b727-058496b83317,Successfully sent message
+2024-10-10 19:53:52.504386+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,ee0d1ce8-d3fa-4284-b727-058496b83317,Finished in state Completed()
+2024-10-10 19:53:52.507581+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Finished in state Completed()
+2024-10-10 19:53:52.706120+00:00,20,970f5baf-d18c-4939-b27f-c38dabc3215a,,Process 163 exited cleanly.

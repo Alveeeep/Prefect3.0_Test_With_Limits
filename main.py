@@ -106,6 +106,4 @@ if __name__ == "__main__":
         name="main-flow-deployment",
         work_pool_name="process-work-pool",
         work_queue_name="api-queue",
-        #image="my-docker-image:dev",
-        #push=False
     )
